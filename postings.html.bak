@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<title>Job Postings</title>
+	<link href="images/favicon.ico" rel="icon" type="image/png" />
+	<link href="images/apple-touch-icon.png" rel="apple-touch-icon" />
+	<link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+	<link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" /><!--[if lt IE 9]>
+<script src="scripts/ie9.js">IE7_PNG_SUFFIX=".png";</script>
+<![endif]-->
+	<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic" rel="stylesheet" type="text/css" />
+	<link href="stylesheets/style.css" rel="stylesheet" />
+	<link href="stylesheets/responsive.css" rel="stylesheet" /><script src="scripts/jquery.min.js"></script><script src="scripts/jquery.blackandwhite.min.js"></script><script src="scripts/js_func.js"></script><script>
+$(function(){
+    $('.bwWrapper').BlackAndWhite({
+        hoverEffect : true,
+        webworkerPath : false,
+        responsive:true,
+        invertHoverEffect:false
+    });
+});
+</script>
+</head>
+<body>
+<div class="wraper">
+<header class="header"><a class="logo" href="index.html">CCIT</a>
+<nav><!-- top menu -->
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a href="about.html">About Us</a></li>
+	<li><a href="services.html">Services</a></li>
+	<li><a href="testimonials.html">Testimonials</a></li>
+	<li><a href="contact_us.html">Contact Us</a></li>
+	<li><a href="postings.html">Job Postings</a></li>
+</ul>
+<!-- /top menu --></nav>
+</header>
+</div>
+
+<div class="content_block"><!-- top_title -->
+<div class="top_title">
+<div class="wraper">
+<h2>Job Postings</h2>
+
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li>Job Postings</li>
+</ul>
+</div>
+</div>
+<!-- /top_title -->
+
+<div class="wraper">
+<p style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><b><span style="font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Java Developer</span></b><span class="apple-converted-space"><span style="font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">&nbsp;</span></span><b><span style="font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">(CCITJD15) </span></b><span style="font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">(01/18/2016)</span></p>
+
+<p style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;">&nbsp;</p>
+
+<ul>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030">Work under direction from the manager or lead.</span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030">Responsible for creating Graphical user interface utilizing GUI tools available in the project.</span></o:p></span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030">Responsible for writing J2EE compliant code utilizing standard IDE&#39;s.<o:p></o:p></span></o:p></span></o:p></span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030">Write Java/XML/PLSQL/SQL code to meet the requirements and maintain coding standards.<o:p></o:p></span></o:p></span></o:p></span></o:p></span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030">Participate in code reviews and ensure the code written complies with the company standards and policies.</span></o:p></span></o:p></span></o:p></span></o:p></span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:#303030">Participate in meetings and discussions with Functional/Team Leads to understand the requirements and work out a design.<o:p></o:p></span></o:p></span></o:p></span></o:p></span></o:p></span></o:p></span></li>
+</ul>
+
+<p style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;">&nbsp;</p>
+
+<p style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="color: rgb(48, 48, 48); font-family: Arial, sans-serif; line-height: 16.8pt;">Primary Skills:</span></p>
+
+<ol>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030">Masters/Bachelors in Computer Science or related discipline.<o:p></o:p></span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030"><o:p><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030">Must have 2-3 plus years of JAVA software development experience and minimum 2 plus years of experience in development and design of enterprise applications.</span></o:p></span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030"><o:p></o:p></span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);">Must have 2-3 years of object oriented programming; 2+ years J2EE, Java Servlets, </span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">JDBC,&nbsp;</span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);">JSP, JSP Custom Tags, </span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Servlets</span><span style="line-height: 16.8pt;">, </span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);">EJB, JMS and Java design patterns.</span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);">Expert knowledge and experience with HTML, </span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">XML</span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);">, CSS &amp; JavaScript.</span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);">Good knowledge of Oracle, WebLogic, </span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">MYSQL</span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);"> and PL/SQL database programming (Creating procedures/triggers).</span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="line-height: 16.8pt; font-family: Arial, sans-serif; color: rgb(48, 48, 48);">Must have experience using version control systems </span><span style="line-height: 16.8pt; font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">CVS, IBM ClearQuest or GIT.</span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="color: rgb(48, 48, 48); font-family: Arial, sans-serif; line-height: 16.8pt;">Experience of implementing or working with MVC framework.</span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="color: rgb(48, 48, 48); font-family: Arial, sans-serif; line-height: 16.8pt;">Must be strong in Core Java/J2EE.</span></li>
+	<li style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="color: rgb(48, 48, 48); font-family: Arial, sans-serif; line-height: 16.8pt;">Should have Good communication and writing skills.</span></li>
+</ol>
+
+<p style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;">&nbsp;</p>
+
+<p style="margin: 0in 0in 0.0001pt; line-height: 16.8pt; background: white;"><span style="color: rgb(48, 48, 48); font-family: Arial, sans-serif; line-height: 16.8pt;">Secondary Skills:</span></p>
+
+<ul>
+	<li><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#303030">Agile/Iterative development experience preferred.</span></li>
+	<li><span style="color: rgb(48, 48, 48); font-family: Arial, sans-serif; line-height: 16.8pt; background-color: white;">Experience with Business Rules Engine.</span></li>
+	<li><span style="color: rgb(48, 48, 48); font-family: Arial, sans-serif; line-height: 16.8pt; background-color: white;">Knowledge of AJAX, JSON, JQuery.</span></li>
+</ul>
+
+<p class="bord">&nbsp;</p>
+
+<p class="bord"><span style="font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;">Respond by mailing </span><span lang="EN" style="font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;">resumes with Job ID to:<em> HR Dept., 100 Main Center, Suite 1, Northville, MI 48167</em>. </span></p>
+
+<p class="bord"><span lang="EN" style="font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;">Unanticipated<span class="apple-converted-space">&nbsp;</span></span><span style="background-image: initial; background-repeat: initial;"><span style="font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;">work sites throughout U.S. Foreign equiv. accepted.</span></span></p>
+
+<p class="bord">&nbsp;</p>
+
+<p class="bord">&nbsp;</p>
+</div>
+</div>
+<!-- footer --><!-- social block -->
+
+<div class="social_block">
+<div class="wraper">
+<p>Stay connected with us in your favorite flavor!</p>
+
+<ul>
+	<li class="facebook"><a href="https://www.facebook.com">Facebook</a></li>
+	<li class="twitter"><a href="https://twitter.com">Twitter</a></li>
+	<li class="linkedin"><a href="http://www.linkedin.com/">LinkedIn</a></li>
+	<li class="rss"><a href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=rss&amp;source=web&amp;cd=11&amp;cad=rja&amp;sqi=2&amp;ved=0CGEQFjAK&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2F&amp;ei=EfhWUc7JGcKNrgfYv4HwDQ&amp;usg=AFQjCNGBd7RzDuC6GmY8vzs0MjVs0wdHXw">RSS</a></li>
+	<li class="dribbble"><a href="http://dribbble.com/">Dribbble</a></li>
+	<li class="google"><a href="https://plus.google.com/">Google+</a></li>
+</ul>
+</div>
+</div>
+<!-- /social block -->
+
+<div class="footer">
+<footer><!-- bottom about -->
+<div class="bottom_about">
+<p><img alt="" src="images/logo.png" /></p>
+
+<p>CCIT is a leading IT consulting and software solutions provider with over Fifteen years of experience in the software industry. We offer a complete range of IT services and solutions in the areas of E-Business, Enterprise Application Integration, On-site Consulting, Application Development and Outsourcing, Packaged Software Implementation and E-Governance Solutions.</p>
+</div>
+<!-- /bottom about --><!-- recent tweets -->
+
+<div class="recent_tweets">&nbsp;</div>
+<!-- /recent tweets --><!-- recent posts -->
+
+<div class="recent_posts">
+<h3><span>Links</span></h3>
+
+<ul>
+	<li><a href="http://www.java.com/en/">Java</a></li>
+	<li><a href="http://www.microsoft.com/en-in/default.aspx">Microsoft </a></li>
+	<li><a href="http://www.oracle.com/index.html">Oracle</a></li>
+	<li><a href="http://www.google.com">Google</a></li>
+	<li><a href="http://www.wordpress.org">Wordpress</a></li>
+</ul>
+</div>
+<!-- /recent posts --><!-- subscribe block -->
+
+<div class="subscribe_block">
+<h3><span>Stay Connected</span></h3>
+
+<ul>
+	<li><strong>Mr.Vijey seri<br />
+	732-829-9699 (C)<br />
+	732-553-2615 (Fax)<br />
+	email: <a href="mailto:info@ccitinc.com"> info@ccitinc.com</a><a href="mailto:vijayseri@yahoo.com"> vijayseri@yahoo.com</a><br />
+	100 Main centre,<br />
+	Suite#1,<br />
+	Northville,MI-48167,<br />
+	USA</strong><br />
+	&nbsp;</li>
+</ul>
+</div>
+<!-- /subscribe block --></footer>
+</div>
+<!-- copyright -->
+
+<div class="copyright">
+<div class="wraper">
+<p><span>Copyright 2013-16 CCIT</span>All Rights Reserved<a href="#">Designed by : Vasu.Bojja</a><a href="#">+91 9177445819</a></p>
+<a class="top" href="#">Back to the top</a></div>
+</div>
+<!-- /copyright --><!-- /footer -->
+
+<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;">&nbsp;</div>
+</body>
+</html>

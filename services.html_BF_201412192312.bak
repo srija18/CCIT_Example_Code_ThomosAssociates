@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Services</title>
+<link rel="icon" type="image/png" href="images/favicon.ico" />
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+<!--[if lt IE 9]>
+<script src="scripts/ie9.js">IE7_PNG_SUFFIX=".png";</script>
+<![endif]-->
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="stylesheets/style.css"> 
+<link rel="stylesheet" href="stylesheets/responsive.css"> 
+<script src="scripts/jquery.min.js"></script> 
+<script src="scripts/jquery.blackandwhite.min.js"></script>
+<script src="scripts/js_func.js"></script>
+<script>
+$(function(){
+    $('.bwWrapper').BlackAndWhite({
+        hoverEffect : true,
+        webworkerPath : false,
+        responsive:true,
+        invertHoverEffect:false
+    });
+});
+</script>
+</head>
+<body>
+<div class="wraper">
+ <header class="header">
+  <a class="logo" href="index.html">construct</a>
+  <nav>
+  <!-- top menu -->
+     <ul>
+    <li><a href="index.html">Home</a></li>
+       <li><a href="about.html">About Us</a></li>
+       <li><a href="services.html">Services</a></li>
+        <li><a href="testimonials.html">Testimonials</a></li>
+      <li><a href="contact_us.html">Contact Us</a></li>
+      </ul>
+      <!-- /top menu -->
+  </nav>
+ </header>
+</div> 
+
+<div class="content_block">
+ <!-- top_title -->
+ <div class="top_title">
+  <div class="wraper">
+   <h2>Our Services<span>We can handle anythign you need.  Check out our services below!</span></h2>
+   <ul>
+    <li><a href="index.html">Home</a></li>
+        <li>Our Services</li>
+   </ul>
+  </div>
+ </div>
+ <!-- /top_title -->
+ <div class="wraper">
+  <!-- services option -->
+  <div class="features2_block services_option">
+   <h4>We provide the following services</h4>
+   <div id="h_tabs" class="c_after">
+   <ul class="tab_select left_list">
+    <li class="design">
+     <a class="tlink" href="#htab-1">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Consulting services</h4>
+     <p><span>For any IT needs</span></p>
+    </li>
+    <li class="flexible">
+     <a class="tlink" href="#htab-2">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Technology Solutions</h4>
+     <p><span>Any stream</span></p>
+    </li>
+    <li class="fonts">
+     <a class="tlink" href="#htab-3">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Information Tech</h4>
+     <p><span>Analysis, strategy & design</span></p>
+    </li>
+    <li class="ultra">
+     <a class="tlink" href="#htab-4">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Java Development services</h4>
+     <p><span>For every purpose</span></p>
+    </li>
+    <li class="support">
+     <a class="tlink" href="#htab-5">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Server management</h4>
+     <p><span>We will take care your data</span></p>
+    </li>
+    <li class="easy">
+     <a class="tlink" href="#htab-6">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Web Development services</h4>
+     <p><span>Web is virtual world</span></p>
+    </li>
+    <li class="color">
+     <a class="tlink" href="#htab-7">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Network design</h4>
+     <p><span>maintenance & support</span></p>
+    </li>
+    <li class="updates">
+     <a class="tlink" href="#htab-8">&nbsp;</a>
+     <a class="circle_link">&nbsp;</a>
+     <h4>Quality Assurance Testing</h4>
+     <p><span>Must for every product</span></p>
+    </li>
+   </ul>
+   <div id="htab-1" class="right_desc">
+    <p><em><strong>CCIT have a very high tech and talented people who have a vast variety of experience in the software industry. Our consultants are in the consulting field for the last several years. Being in a consulting field for such a long time, we understand the need of the client and have knowledge and expertise to fulfill these needs.</strong></em></p>
+    <p>CCIT, through quality-focused recruiting and hiring methods, provides the right people with the right skills whenever and wherever they are needed. Our team has years of industry experience and a proven record of providing highly qualified IT professionals. </p>
+    <p class="bwWrapper"><img src="images/services_process/services_8.png" width="202" height="120" alt="" /></p>
+    <ul>
+     <li>Database management and integrity</li>
+     <li>Website maintenance</li>
+     <li>Analysis, strategy & design</li>
+     <li>Competitive </li>
+    </ul>
+   </div>
+   <div id="htab-2" class="right_desc">
+    <p><em><strong>Information technology deals with industries that provides solutions that are used in managing data and solutions for getting things done through information technology and that comes from the industry. It is a continuous learning process, and innovation, with a lot of things to put in place.</strong></em></p>
+    <p>Information and Communications Technology or (ICT), is often used as an extended synonym for information technology (IT), but is a more specific term that stresses the role of unified communications and the integration of telecommunications (telephone lines and wireless signals), computers as well as necessary enterprise software, middleware, storage, and audio-visual systems, which enable users to access, store, transmit, and manipulate information</p>
+    <p class="bwWrapper"><img src="images/services_process/services_9.png" width="202" height="120" alt="" /></p>
+    <ul>
+     <li>For Business & Govt</li>
+     <li>Communications</li>
+     <li>Entertainment industry</li>
+     <li>for everyday life </li>
+    </ul>
+   </div>
+   <div id="htab-3" class="right_desc">
+    <p><em><strong>Information technology deals with industries that provides solutions that are used in managing data and solutions for getting things done through information technology and that comes from the industry. It is a continuous learning process, and innovation, with a lot of things to put in place.</strong></em></p>
+    <p>Innovation and technology are the engines of the World economy, but we need more of the best and brightest to power it.  It's simple: the more innovators, entrepreneurs, and hard working individuals we have in CCIT.</p>
+    <p class="bwWrapper"><img src="images/services_process/services_10.png" width="202" height="120" alt="" /></p>
+    <ul>
+     <li>Planning with Experts</li>
+     <li>Developers</li>
+     <li>Testing with all Platforms</li>
+     <li>Implimentation</li>
+    </ul>
+   </div>
+   <div id="htab-4" class="right_desc">
+    <p><em><strong>Java is the foundation for virtually every type of networked application and is the global standard for developing and delivering mobile applications, games, Web-based content, and enterprise software. With more than 9 million developers worldwide, Java enables you to efficiently develop, deploy and use exciting applications and services.
+
+From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is everywhere!</strong></em></p>
+    <p>Java has been tested, refined, extended, and proven by a dedicated community of Java developers, architects and enthusiasts. Java is designed to enable development of portable, high-performance applications for the widest range of computing platforms possible. By making applications available across heterogeneous environments, businesses can provide more services and boost end-user productivity, communication, and collaboration—and dramatically reduce the cost of ownership of both enterprise and consumer applications. </p>
+    <p class="bwWrapper"><img src="images/services_process/services_11.png" width="202" height="120" alt="" /></p>
+    <ul>
+    <li>Designing & Coding </li>
+     <li>Write software for your needs</li>
+     <li>Combine applications or services </li>
+     <li>Develop server-side applications</li>
+    </ul>
+   </div>
+   <div id="htab-5" class="right_desc">
+    <p><em><strong>In most common use, a server is a physical computer (a computer hardware system) dedicated to run one or more services (as a host) to serve the needs of the users of other computers on a network. Depending on the computing service that it offers it could be a database server, file server, mail server, print server, web server, gaming server, or some other kind of server.</strong></em></p>
+    <p>The term server is used quite broadly in information technology. Despite the many server-branded products available (such as server versions of hardware, software or operating systems), in theory any computerised process that shares a resource to one or more client processes is a server. To illustrate this, take the common example of file sharing. While the existence of files on a machine does not classify it as a server, the mechanism which shares these files to clients by the operating system is the server.Forget everything, we will takecare for your requirement</p>
+    <p class="bwWrapper"><img src="images/services_process/services_12.png" width="202" height="120" alt="" /></p>
+    <ul>
+     <li>Web servers for Internet</li>
+     <li>Proxy servers</li>
+     <li>online game servers</li>
+     <li>Servers maintenance</li>
+    </ul>
+   </div>
+   <div id="htab-6" class="right_desc">
+    <p><em><strong>Web development is a broad term for the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing the simplest static single page of plain text to the most complex web-based internet applications, electronic businesses, and social network services. A more comprehensive list of tasks to which web development commonly refers, may include web design, web content development, client liaison, client-side/server-side scripting, web server and network security configuration, and e-commerce development. Among web professionals, "web development" usually refers to the main non-design aspects of building web sites: writing markup and coding.</strong></em></p>
+    <p>For larger organizations and businesses, web development teams can consist of hundreds of people (web developers). Smaller organizations may only require a single permanent or contracting webmaster, or secondary assignment to related job positions such as a graphic designer and/or information systems technician. Web development may be a collaborative effort between departments rather than the domain of a designated department.</p>
+    <p class="bwWrapper"><img src="images/services_process/services_13.png" width="202" height="120" alt="" /></p>
+    <ul>
+     <li>Website designing</li>
+     <li>Web based games</li>
+     <li>Web portal designing</li>
+     <li>e.commerce</li>
+    </ul>
+   </div>
+   <div id="htab-7" class="right_desc">
+    <p><em><strong>Network planning and design is an iterative process, encompassing topological design, network-synthesis, and network-realization, and is aimed at ensuring that a new network or service meets the needs of the subscriber and operator.</strong></em></p>
+    <p>Network survivability enables the network to maintain maximum network connectivity and quality of service under failure conditions. It has been one of the critical requirements in network planning and design.</p>
+    <p class="bwWrapper"><img src="images/services_process/services_14.png" width="202" height="120" alt="" /></p>
+    <ul>
+     <li>Topological design</li>
+     <li>Network-synthesis</li>
+     <li>Network realization</li>
+     <li>operations and maintenance</li>
+    </ul>
+   </div>
+   <div id="htab-8" class="right_desc">
+    <p><em><strong>Software testing is an investigation conducted to provide stakeholders with information about the quality of the product or service under test.Software testing can also provide an objective, independent view of the software to allow the business to appreciate and understand the risks of software implementation. Test techniques include, but are not limited to, the process of executing a program or application with the intent of finding software bugs (errors or other defects).</strong></em></p>
+    <p>Software testing, depending on the testing method employed, can be implemented at any time in the development process. Traditionally most of the test effort occurs after the requirements have been defined and the coding process has been completed, but in the Agile approaches most of the test effort is on-going. As such, the methodology of the test is governed by the chosen software development methodology. We will make your product running successfully. </p>
+    <p class="bwWrapper"><img src="images/services_process/services_15.png" width="202" height="120" alt="" /></p>
+    <ul>
+     <li>meets the requirement design and development</li>
+     <li>works as expected</li>
+      <li>satisfies the needs of stakeholders</li>
+        </ul>
+   </div>
+   </div>
+  </div>
+  <!-- /services option -->
+  
+  <!-- services option5 -->
+  <h4 class="bord"></h4>
+  <div class="features_block services_option5_marg">
+   <ul>
+    <li class="design">
+     <a class="circle_link" href="#">&nbsp;</a>
+     <h4><span>Design</span></h4>
+     <p></p>
+    </li>
+    <li class="flexible">
+     <a class="circle_link" href="#">&nbsp;</a>
+     <h4><span>Flexible</span></h4>
+     <p></p>
+    </li>
+    <li class="support">
+     <a class="circle_link" href="#">&nbsp;</a>
+     <h4><span>Support</span></h4>
+     <p></p>
+    </li>
+    <li class="easy">
+     <a class="circle_link" href="#">&nbsp;</a>
+     <h4><span>Easy To Edit</span></h4>
+     <p></p>
+    </li>
+    <li class="seo">
+     <a class="circle_link" href="#">&nbsp;</a>
+     <h4><span>SEO Ready</span></h4>
+     <p></p>
+    </li>
+   </ul>
+  </div>
+  <!-- /services option5 -->
+  
+ </div>
+</div>
+
+<!-- footer -->
+<!-- social block -->
+<div class="social_block">
+ <div class="wraper">
+  <p>Stay connected with us in your favorite flavor!</p>
+   <ul>
+   <li class="facebook"><a href="https://www.facebook.com">Facebook</a></li>
+   <li class="twitter"><a href="https://twitter.com">Twitter</a></li>
+   <li class="linkedin"><a href="http://www.linkedin.com/">LinkedIn</a></li>
+   <li class="rss"><a href="http://www.google.com/url?sa=t&rct=j&q=rss&source=web&cd=11&cad=rja&sqi=2&ved=0CGEQFjAK&url=http%3A%2F%2Ffeeds.feedburner.com%2F&ei=EfhWUc7JGcKNrgfYv4HwDQ&usg=AFQjCNGBd7RzDuC6GmY8vzs0MjVs0wdHXw">RSS</a></li>
+   <li class="dribbble"><a href="http://dribbble.com/">Dribbble</a></li>
+   <li class="google"><a href="https://plus.google.com/">Google+</a></li>
+  </ul>
+ </div>
+</div>
+<!-- /social block -->
+
+<div class="footer">
+ <footer>
+  <!-- bottom about -->
+  <div class="bottom_about">
+   <p><img src="images/logo.png" alt="" /></p>
+   <p>CCIT is a leading IT consulting and software solutions provider with over Fifteen years of experience in the software industry. We offer a complete range of IT services and solutions in the areas of E-Business, Enterprise Application Integration, On-site Consulting, Application Development and Outsourcing, Packaged Software Implementation and E-Governance Solutions.</p>
+  </div>
+  <!-- /bottom about -->
+  <!-- recent tweets -->
+  <div class="recent_tweets">
+   
+  </div>
+  <!-- /recent tweets -->
+  <!-- recent posts -->
+  <div class="recent_posts">
+    <h3><span>Links</span></h3>
+   <ul>
+    <li><a href="http://www.java.com/en/">Java</a></li>
+    <li><a href="http://www.microsoft.com/en-in/default.aspx">Microsoft </a></li>
+    <li><a href="http://www.oracle.com/index.html">Oracle</a></li>
+    <li><a href="http://www.google.com">Google</a></li>
+    <li><a href="http://www.wordpress.org">Wordpress</a></li>
+   </ul>
+  </div>
+  <!-- /recent posts -->
+  <!-- subscribe block -->
+  <div class="subscribe_block">
+   <h3><span>Stay Connected</span></h3>
+     <ul>
+       <li><strong>Mr.Vijay seri<br />732-829-9699 (C)<br />732-553-2615 (Fax)<br /><a href="mailto:info@http://ccitinc.com">
+info@ccitinc.com</a><br />100 Main centre,<br>Suite#1,<br>Northville,MI-48167,<br>USA<br /><br /></strong></li>
+       </ul> 
+  </div>
+  <!-- /subscribe block -->
+ </footer>
+</div>
+
+<!-- copyright -->
+<div class="copyright">
+ <div class="wraper">
+  <p><span>Copyright 2013 CCIT</span>All Rights Reserved</p>
+  <a class="top" href="#">Back to the top</a>
+ </div>
+</div>
+<!-- /copyright -->
+<!-- /footer -->
+<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;"> <a href="http://www.universitydogs.com/"><b>jordan 13 black infrared</b></a> <a href="http://www.universitydogs.com/"><b>jordan 13 black infrared</b></a> <a href="http://www.camoinassociates.com/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.tech-yeah.com/"><b>jordan 13 black infrared</b></a> <a href="http://www.mbasinconsulting.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.arizonawindsymphony.org/"><b>legend blue 11s</b></a> <a href="http://www.cabaretofmiracles.com/"><b>legend blue 11s</b></a> <a href="http://www.hookerandbuchanan.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.newhampshirewebsitehosting.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.wema-vogtland.us/"><b>jordan 11 legend blue</b></a> <a href="http://www.discountidbadgesupplies.com/"><b>legend blue 11s</b></a> <a href="http://www.wema-vogtland.us/"><b>jordan 11 legend blue</b></a> <a href="http://www.chasingthecure.net/"><b>jordan 11 legend blue</b></a> <a href="http://co-creativesynergy.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.sdhdi.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.springlaketownship.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.camoinassociates.com/"><b>jordan 13 black infrared</b></a> <a href="http://www.neuhauslabs.com/"><b>legend blue 11s</b></a> <a href="http://www.tech-yeah.com/"><b>black infrared 13s</b></a> <a href="http://jrblaw.com/"><b>legend blue 11s</b></a> <a href="http://laarbo.net/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.mypetropolis.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.lumber.ca/"><b>jordan 11 legend blue</b></a> <a href="http://www.turnkeyeducation.net/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.thequarterrestaurant.com/"><b>jordan 11 legend blue</b></a> <a href="http://odelltrailers.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.www.halohc.com/"><b>legend blue 11s</b></a> <a href="http://www.kitvac.com/"><b>legend blue 11s</b></a> <a href="http://www.lumber.ca/"><b>jordan 11 legend blue</b></a> <a href="http://www.twinoakspress.com/"><b>black red 13s</b></a> <a href="http://www.fostersystems.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.troydeltachi.org/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.amfoodsgroup.com/"><b>jordan 13 black infrared 23</b></a> <a href="http://monetizedigital.us/"><b>jordan 11 legend blue</b></a> <a href="http://www.jtsbrickovenpizza.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.inlandvalleykids.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.groupesoutiere.com/"><b>jordan 11 legend blue</b></a> <a href="http://anewseasongroup.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.mbasinmarketing.com/"><b>legend blue 11s</b></a> <a href="http://www.christopherproductions.org/"><b>black red 13s</b></a> <a href="http://www.eulix.ca/"><b>michael kors black friday</b></a> <a href="http://www.dianneramponi.com/"><b>michael kors black friday</b></a> <a href="http://www.ccaestate.org"><b>michael kors Black Friday</b></a> <a href="http://www.cleanyourbike.com"><b>michael kors Black Friday</b></a> <a href="http://www.proactiveitsystems.com/"><b>michael kors black friday</b></a> <a href="http://www.proactiveitsystems.com/"><b>michael kors black friday</b></a> <a href="http://www.extremeanimals.org/"><b>kate spade cyber monday</b></a> <a href="http://www.windcomservices.com/"><b>hollister black friday</b></a> <a href="http://www.sewwenergy.com/"><b>lululemon black friday</b></a> <a href="http://www.atlantafreethought.org/"><b>moncler black friday</b></a> <a href="http://www.houstoncenterforinfectiousdiseases.com"><b>Abercrombie and fitch black friday</b></a> <a href="http://www.brettwiscons.com/"><b>Babyliss cyber monday</b></a> <a href="http://www.ac-stl.com"><b>tory burch cyber monday</b></a> <a href="http://www.tfp-okeechobee.org/"><b>coach black Friday</b></a> <a href="http://www.careerconceptsforyouth.org"><b>burberry cyber monday</b></a> <a href="http://www.astrotes.info/"><b>coach cyber monday</b></a> <a href="http://www.leapsandboundspediatricpt.org/"><b>beats by dre black Friday</b></a> <a href="http://www.shawsbarbecue.com/"><b>north face black friday</b></a> <a href="http://multicareclinic.com/"><b>canada goose black friday</b></a> <a href="http://www.love4lucas.com/"><b>michael kors cyber monday</b></a> <a href="http://www.iztechnologies.net/"><b>michael kors black friday</b></a> <a href="http://www.seamusmcgraw.com"><b>michael kors black Friday</b></a> <a href="http://www.steinerstavern.com/"><b>beats by dre cyber Monday</b></a> <a href="http://scovelsurfboards.com/"><b>uggs cyber monday</b></a> <a href="http://www.seymour-pd.com/"><b>michael kors black friday</b></a> <a href="http://www.adamandevecosmetology.com"><b>jordan black friday</b></a> <a href="http://shepherdinggrace.org/"><b>jordan black friday</b></a> <a href="http://www.delegatewilt.com/"><b>lululemon cyber monday</b></a> <a href="http://www.montrosemolders.com/"><b>true religion black friday</b></a> <a href="http://www.airtelplaza.com/"><b>coach cyber monday</b></a> <a href="http://srsindustrial.net/"><b>canada goose black friday</b></a> <a href="http://www.gsltrans.com/"><b>beats by dre cyber Monday</b></a> <a href="http://www.orangecountyfairspeedway.net"><b>uggs black Friday</b></a> <a href="http://www.reputationsaviors.com"><b>beats by dre black friday</b></a> <a href="http://usedgrooves.com/"><b>louis vuitton black friday</b></a> <a href="http://www.brookwoodtownhouses.com/"><b>north face cyber Monday</b></a> <a href="http://www.jacklevycpa.com/"><b>mcm black friday</b></a> <a href="http://charsangels.com/"><b>michael kors cyber Monday</b></a> <a href="http://www.remedytechnology.com/"><b>beats by dre cyber Monday</b></a> <a href="http://raisedvisualmedia.com/"><b>north face black friday sale</b></a> <a href="http://rssilverandlight.com/"><b>kate spade cyber monday</b></a> <a href="http://www.windworksstudio.com/"><b>beats by dre black Friday</b></a> <a href="http://www.specialedlaw.org/"><b>uggs cyber monday</b></a> <a href="http://www.specialtechnology.net/"><b>beats by dre cyber Monday</b></a> <a href="http://www.cdhjc.org/"><b>lululemon cyber monday</b></a> <a href="http://www.brettwiscons.com/"><b>Babyliss black Friday</b></a> <a href="http://www.youthresourcebank.org/"><b>michael kors cyber Monday</b></a> <a href="http://www.youthresourcebank.org/"><b>michael kors cyber Monday</b></a> <a href="http://www.edendayspasalon.com/"><b>black Friday beats by dre</b></a> <a href="http://www.makelifebettermeetings.com"><b>michael kors cyber Monday</b></a> <a href="http://www.lsyc.info/"><b>lululemon black friday</b></a> <a href="http://www.currytoyotareviews.com/"><b>Designer handbags black friday</b></a> <a href="http://www.steinerstavern.com/"><b>beats by dre cyber Monday</b></a> <a href="http://intrass.com/"><b>kate spade cyber monday</b></a> <a href="http://www.cornerstonelynchburg.com/"><b>canada goose black friday</b></a> <a href="http://www.cleardocketinc.com/"><b>Babyliss black Friday</b></a> <a href="http://www.writepad.com/"><b>uggs cyber monday</b></a> <a href="http://www.sageeventplanning.com/"><b>uggs cyber monday</b></a> <a href="http://www.bangkokpavilionkc.com/"><b>michael kors black friday</b></a> <a href="http://www.nafi.com/"><b>uggs cyber monday</b></a> <a href="http://www.islandescrow.net/"><b>michael kors black friday</b></a> <a href="http://www.bangkokpavilionkc.com/"><b>michael kors black friday</b></a> <a href="http://www.maxxclerk.com/"><b>michael kors black friday</b></a> <a href="http://www.theworkshopgalena.org/"><b>michael kors black friday</b></a> <a href="http://www.seiki.com/"><b>uggs cyber monday</b></a> <a href="http://www.daveedwardsevents.com/"><b>uggs cyber monday</b></a> <a href="http://www.adcadvisory.com/"><b>michael kors black friday</b></a> <a href="http://www.maxxclerk.com/"><b>michael kors black friday</b></a> <a href="http://www.motherspub.com/"><b>michael kors black friday</b></a> <a href="http://www.specialedlaw.org/"><b>uggs cyber monday</b></a> <a href="http://www.deluxebarandgrill.com/"><b>michael kors black friday</b></a> <a href="http://www.abcplumbingandhvac.com/"><b>uggs cyber monday</b></a> <a href="http://canyonlawoffice.com/"><b>michael kors black friday</b></a> <a href="http://stmarkswadsworth.org/"><b>uggs cyber monday</b></a> <a href="http://www.stjohnchurchnj.com/"><b>michael kors black friday</b></a> <a href="http://www.deluxebarandgrill.com/"><b>michael kors black friday</b></a> <a href="http://www.daveedwardsevents.com/"><b>uggs black friday</b></a> <a href="http://www.dianneramponi.com/"><b>michael kors cyber monday</b></a> <a href="http://www.deluxebarandgrill.com/"><b>michael kors cyber monday</b></a> <a href="http://www.nafi.com/"><b>uggs black friday</b></a> <a href="http://www.nafi.com/"><b>uggs black friday</b></a> <a href="http://www.mopac.com/"><b>uggs black friday</b></a> <a href="http://www.bangkokpavilionkc.com/"><b>michael kors cyber monday</b></a> <a href="http://www.sgyc.org/"><b>uggs black friday</b></a> <a href="http://www.thegeorgi.com/"><b>uggs black friday</b></a> <a href="http://www.sgyc.org/"><b>uggs black friday</b></a> <a href="http://www.motherspub.com/"><b>michael kors cyber monday</b></a> <a href="http://rosehipbarn.com/"><b>uggs black friday</b></a> <a href="http://hunterdehn.com/"><b>uggs black friday</b></a> <a href="http://www.rockdaleclerk.com/"><b>uggs black friday</b></a> <a href="http://www.mopac.com/"><b>uggs black friday</b></a> <a href="http://www.lonestar-environmental.com/"><b>michael kors cyber monday</b></a> <a href="http://rosehipbarn.com/"><b>uggs black friday</b></a> <a href="http://www.bockhealingcenter.com/"><b>michael kors cyber monday</b></a> <a href="http://www.rockdaleclerk.com/"><b>uggs black friday</b></a> <a href="http://www.theworkshopgalena.org/"><b>michael kors cyber monday</b></a></div></body>
+</html> 
